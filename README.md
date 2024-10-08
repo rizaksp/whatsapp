@@ -68,7 +68,7 @@ global.sessionName = "session"; // session name
 Clone the project
 
 ```bash
-  git clone https://github.com/rtaserver/ApiWhatsapp-Gateway.git
+  git clone https://github.com/rizaksp/whatsapp.git
 ```
 
 Go to the project directory
